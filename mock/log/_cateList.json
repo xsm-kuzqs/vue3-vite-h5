@@ -1,0 +1,621 @@
+[
+  {
+    "cate_title": "手机数码",
+    "cate_data": [
+      {
+        "title": "热门品牌",
+        "list": [
+          {
+            "imgUrl": "https://img30.360buyimg.com/focus/s140x140_jfs/t13411/188/926813276/3945/a4f47292/5a1692eeN105a64b4.png",
+            "title": "小米"
+          },
+          {
+            "imgUrl": "https://img14.360buyimg.com/focus/s140x140_jfs/t11929/135/2372293765/1396/e103ec31/5a1692e2Nbea6e136.jpg",
+            "title": "华为"
+          },
+          {
+            "imgUrl": "https://img10.360buyimg.com/focus/s140x140_jfs/t12178/348/911080073/4732/db0ad9c7/5a1692e2N6df7c609.jpg",
+            "title": "荣耀"
+          },
+          {
+            "imgUrl": "https://img20.360buyimg.com/focus/s140x140_jfs/t13759/194/897734755/2493/1305d4c4/5a1692ebN8ae73077.jpg",
+            "title": "iPhone"
+          },
+          {
+            "imgUrl": "https://img11.360buyimg.com/focus/s140x140_jfs/t11014/359/2341377211/2777/1755c29c/5a169244Nff0179e0.png",
+            "title": "vivo"
+          },
+          {
+            "imgUrl": "https://img13.360buyimg.com/focus/s140x140_jfs/t13036/273/932026474/2570/a3517c7d/5a169254N4bbbd9fb.png",
+            "title": "OPPO"
+          },
+          {
+            "imgUrl": "https://img20.360buyimg.com/focus/s140x140_jfs/t12820/326/909017718/7138/68cde747/5a169243N40eca33c.jpg",
+            "title": "魅族"
+          },
+          {
+            "imgUrl": "https://img13.360buyimg.com/focus/s140x140_jfs/t11509/131/2348573811/3425/4f20fe6/5a16925aN8a6dfd03.png",
+            "title": "三星"
+          },
+          {
+            "imgUrl": "https://img13.360buyimg.com/focus/s140x140_jfs/t11209/71/2351231464/4158/fc0c415c/5a16923fNfc14307e.jpg",
+            "title": "一加"
+          },
+          {
+            "imgUrl": "https://img20.360buyimg.com/focus/s140x140_jfs/t13096/309/908035611/5138/5558f001/5a16924fNeac7677e.jpg",
+            "title": "360手机"
+          },
+          {
+            "imgUrl": "https://img10.360buyimg.com/focus/s140x140_jfs/t1/84715/12/13703/4118/5e5f0dacE08741f12/63fb9e75fbaf0738.jpg",
+            "title": "锤子手机"
+          },
+          {
+            "imgUrl": "https://img11.360buyimg.com/focus/s140x140_jfs/t1/108301/34/7712/3254/5e5f0de9E4ca2f4b5/c664966ee1d36d47.jpg",
+            "title": "努比亚"
+          }
+        ]
+      },
+      {
+        "title": "手机通讯",
+        "list": [
+          {
+            "imgUrl": "https://img12.360buyimg.com/focus/s140x140_jfs/t11461/339/2354953633/8254/8c8c50d3/5a169217N5d1b842e.jpg",
+            "title": "老人机"
+          },
+          {
+            "imgUrl": "https://img10.360buyimg.com/focus/s140x140_jfs/t11503/241/2246064496/4783/cea2850e/5a169216N0701c7f1.jpg",
+            "title": "手机"
+          },
+          {
+            "imgUrl": "https://img30.360buyimg.com/focus/s140x140_jfs/t18955/187/1309277884/11517/fe100782/5ac48d27N3f5bb821.jpg",
+            "title": "全面屏手机"
+          },
+          {
+            "imgUrl": "https://img11.360buyimg.com/focus/s140x140_jfs/t11470/45/2362968077/2689/fb36d9a0/5a169238Nc8f0882b.jpg",
+            "title": "游戏手机"
+          },
+          {
+            "imgUrl": "https://img20.360buyimg.com/focus/s140x140_jfs/t12022/66/917351804/2257/7ddc58e5/5a169232Ndf76f53c.jpg",
+            "title": "拍照手机"
+          },
+          {
+            "imgUrl": "https://img30.360buyimg.com/focus/s140x140_jfs/t13255/192/958298391/1687/5c7e3c53/5a169204Nd4aa27bb.jpg",
+            "title": "对讲机"
+          },
+          {
+            "imgUrl": "https://img30.360buyimg.com/focus/s140x140_jfs/t13246/188/925975876/8794/686dbb9c/5a1691e0N62f626e3.jpg",
+            "title": "京东回收"
+          },
+          {
+            "imgUrl": "https://img13.360buyimg.com/focus/s140x140_jfs/t1/109596/11/7650/2742/5e5f1074E76a2364e/09b2b19f13691c60.jpg",
+            "title": "女性手机"
+          },
+          {
+            "imgUrl": "https://img20.360buyimg.com/focus/s140x140_jfs/t11644/236/2358207967/6141/e2d71825/5a169205N84a49a6a.jpg",
+            "title": "京东维修"
+          }
+        ]
+      },
+      {
+        "title": "运营商",
+        "list": [
+          {
+            "imgUrl": "//img20.360buyimg.com/focus/s140x140_jfs/t13309/121/902275259/3700/e9f22529/5a168e83Nb1a35aac.png",
+            "title": "合约机"
+          },
+          {
+            "imgUrl": "//img10.360buyimg.com/focus/s140x140_jfs/t11515/106/2342900928/7913/5a606e3f/5a168e7eNdd5d0121.png",
+            "title": "选号卡"
+          },
+          {
+            "imgUrl": "//img20.360buyimg.com/focus/s140x140_jfs/t14146/201/916948302/5272/8ae80f8e/5a168e78N78b24a8e.jpg",
+            "title": "办套餐"
+          },
+          {
+            "imgUrl": "//img12.360buyimg.com/focus/s140x140_jfs/t1/86212/5/13882/10155/5e5f10b7E0130f150/75eef80d6e68bba2.jpg",
+            "title": "京东网厅"
+          }
+        ]
+      },
+      {
+        "title": "手机配件",
+        "list": [
+          {
+            "imgUrl": "//img12.360buyimg.com/focus/s140x140_jfs/t18055/312/1342501458/9462/4699ed8a/5ac48672N11cf61fe.jpg",
+            "title": "数据线"
+          },
+          {
+            "imgUrl": "//img14.360buyimg.com/focus/s140x140_jfs/t13657/281/912225045/5343/3109ae02/5a167b73Na69aae95.jpg",
+            "title": "手机储存卡"
+          },
+          {
+            "imgUrl": "//img12.360buyimg.com/focus/s140x140_jfs/t1/107011/2/13826/4294/5e5f1150E2f5dd505/d9503871495a5a18.jpg",
+            "title": "充电宝"
+          },
+          {
+            "imgUrl": "//img11.360buyimg.com/focus/s140x140_jfs/t17548/288/1331085893/6458/52545456/5ac486c6N0c8a93dc.jpg",
+            "title": "手机贴膜"
+          },
+          {
+            "imgUrl": "//img10.360buyimg.com/focus/s140x140_jfs/t17284/353/1280266808/3696/32c00915/5ac486ccN2d8031c1.jpg",
+            "title": "手机耳机"
+          },
+          {
+            "imgUrl": "//img10.360buyimg.com/focus/s140x140_jfs/t18091/128/1346418266/3819/9dc8206c/5ac486d1Ncae5823b.jpg",
+            "title": "蓝牙耳机"
+          },
+          {
+            "imgUrl": "//img14.360buyimg.com/focus/s140x140_jfs/t19144/51/1301628112/4640/fbf9dfb6/5ac486d7N3afa8a3e.jpg",
+            "title": "手机支架"
+          },
+          {
+            "imgUrl": "//img12.360buyimg.com/focus/s140x140_jfs/t19357/275/1266747041/8012/244ec91b/5ac486deN24e397cb.jpg",
+            "title": "手机饰品"
+          },
+          {
+            "imgUrl": "//img12.360buyimg.com/focus/s140x140_jfs/t18796/230/1350793435/3980/3f19a427/5ac48749Nf95f399e.jpg",
+            "title": "车载配件"
+          },
+          {
+            "imgUrl": "//img11.360buyimg.com/focus/s140x140_jfs/t16774/124/1318736793/3884/cb658723/5ac4874fN6bc007b0.jpg",
+            "title": "充电器"
+          },
+          {
+            "imgUrl": "//img20.360buyimg.com/focus/s140x140_jfs/t18340/309/1327570911/1624/d7fd938c/5ac48770N435b114d.jpg",
+            "title": "手机电池"
+          },
+          {
+            "imgUrl": "//img11.360buyimg.com/focus/s140x140_jfs/t19015/148/1326835130/7790/ddc201c3/5ac48776N9bf8b7c7.jpg",
+            "title": "创意配件"
+          },
+          {
+            "imgUrl": "//img30.360buyimg.com/focus/s140x140_jfs/t19723/252/1293815631/3782/83b375cb/5ac4877eNa263158a.jpg",
+            "title": "拍照配件"
+          },
+          {
+            "imgUrl": "//img20.360buyimg.com/focus/s140x140_jfs/t18556/113/1299885588/4128/81ee8564/5ac48786N17d8442a.jpg",
+            "title": "苹果周边"
+          },
+          {
+            "imgUrl": "//img12.360buyimg.com/focus/s140x140_jfs/t1/87174/1/13815/4336/5e5f15e2E103f440f/be8812eec2e74c61.jpg",
+            "title": "手机壳/保护套"
+          },
+          {
+            "imgUrl": "//img20.360buyimg.com/focus/s140x140_jfs/t1/88445/17/13789/4506/5e5f15feEf22f8fa4/dc08edc60977b020.jpg",
+            "title": "无线充电器"
+          },
+          {
+            "imgUrl": "//img10.360buyimg.com/focus/s140x140_jfs/t1/106332/2/14035/4448/5e5f161bEaba81d22/0fefc1b200564b1b.jpg",
+            "title": "背夹充电宝"
+          },
+          {
+            "imgUrl": "//img13.360buyimg.com/focus/s140x140_jfs/t1/97678/19/13946/1935/5e5f1631E94c6e613/8b0b4c154d39f97a.jpg",
+            "title": "手机转接"
+          }
+        ]
+      },
+      {
+        "title": "摄影摄像",
+        "list": [
+          {
+            "imgUrl": "//img14.360buyimg.com/focus/s140x140_jfs/t13765/295/926307178/7966/3228af24/5a1679f2Nc2f659b6.jpg",
+            "title": "单反相机"
+          },
+          {
+            "imgUrl": "//img20.360buyimg.com/focus/s140x140_jfs/t12814/251/897168610/8107/60a873f/5a1679caNada7f827.jpg",
+            "title": "数码相机"
+          },
+          {
+            "imgUrl": "//img30.360buyimg.com/focus/s140x140_jfs/t12103/88/911420740/3644/5d80c2d9/5a1679e9Nc3e2dd28.jpg",
+            "title": "拍立得"
+          },
+          {
+            "imgUrl": "//img10.360buyimg.com/focus/s140x140_jfs/t12586/176/939117172/2550/d16b4b6c/5a1679c3N67e2b3f1.jpg",
+            "title": "户外器材"
+          },
+          {
+            "imgUrl": "//img14.360buyimg.com/focus/s140x140_jfs/t12364/268/939218267/3342/780120ca/5a1679f1N577ba68b.jpg",
+            "title": "单电/微单相机"
+          },
+          {
+            "imgUrl": "//img30.360buyimg.com/focus/s140x140_jfs/t12859/213/903907037/4465/aad95a43/5a1679daNbea69778.jpg",
+            "title": "摄像机"
+          },
+          {
+            "imgUrl": "//img30.360buyimg.com/focus/s140x140_jfs/t13471/257/894155873/9479/7f38d7e/5a1679d5Nfdcfe9bb.jpg",
+            "title": "运动相机"
+          },
+          {
+            "imgUrl": "//img30.360buyimg.com/focus/s140x140_jfs/t12154/164/880046972/2880/86b45b51/5a1679b9N42a5f8e5.jpg",
+            "title": "镜头"
+          },
+          {
+            "imgUrl": "//img30.360buyimg.com/focus/s140x140_jfs/t11101/333/2250404943/7079/da2367be/5a1679baNaffaf88c.png",
+            "title": "冲印服务"
+          }
+        ]
+      },
+      {
+        "title": "影音娱乐",
+        "list": [
+          {
+            "imgUrl": "//img11.360buyimg.com/focus/s140x140_jfs/t12931/44/891657494/2295/7609fca6/5a167864Ne52020f2.jpg",
+            "title": "便携/无线音箱"
+          },
+          {
+            "imgUrl": "//img30.360buyimg.com/focus/s140x140_jfs/t11518/28/2381795148/3559/268392b0/5a167859N01d8198b.jpg",
+            "title": "音箱/音响"
+          },
+          {
+            "imgUrl": "//img12.360buyimg.com/focus/s140x140_jfs/t12478/108/888997336/8147/a11bd237/5a16782fN5899ee5e.jpg",
+            "title": "MP3/MP4"
+          },
+          {
+            "imgUrl": "//img12.360buyimg.com/focus/s140x140_jfs/t13510/13/889605109/2757/5594d57f/5a167866N8c853168.jpg",
+            "title": "耳机/耳麦"
+          },
+          {
+            "imgUrl": "//img13.360buyimg.com/focus/s140x140_jfs/t13153/363/907758425/1791/3138302d/5a167834N97e065bb.jpg",
+            "title": "麦克风"
+          },
+          {
+            "imgUrl": "//img12.360buyimg.com/focus/s140x140_jfs/t13600/224/883450494/2256/801f9c0b/5a16782eN9012c0c4.jpg",
+            "title": "专业音频"
+          }
+        ]
+      },
+      {
+        "title": "数码配件",
+        "list": [
+          {
+            "imgUrl": "//img20.360buyimg.com/focus/s140x140_jfs/t11806/47/2248616132/4516/e4aec88e/5a1676e9N1ba70a81.jpg",
+            "title": "存储卡"
+          },
+          {
+            "imgUrl": "//img14.360buyimg.com/focus/s140x140_jfs/t11122/182/2222069305/1713/af6c4ea3/5a1676d7N70b9300c.jpg",
+            "title": "三脚架/云台"
+          },
+          {
+            "imgUrl": "//img11.360buyimg.com/focus/s140x140_jfs/t13960/1/896234990/3495/ba79dcd5/5a16769aNc48193e6.jpg",
+            "title": "数码支架"
+          },
+          {
+            "imgUrl": "//img30.360buyimg.com/focus/s140x140_jfs/t12013/240/926457268/3399/b9ae87a7/5a1676f9N0198258e.jpg",
+            "title": "读卡器"
+          },
+          {
+            "imgUrl": "//img10.360buyimg.com/focus/s140x140_jfs/t14059/125/899971136/3385/dae73e41/5a1676efN42553f76.jpg",
+            "title": "滤镜"
+          },
+          {
+            "imgUrl": "//img12.360buyimg.com/focus/s140x140_jfs/t12184/276/902476544/2247/395ad640/5a1676d4Nb81ebdcb.jpg",
+            "title": "相机清洁/贴膜"
+          },
+          {
+            "imgUrl": "//img13.360buyimg.com/focus/s140x140_jfs/t13498/111/906841326/10806/3e913761/5a1676e6Na93e4fd1.jpg",
+            "title": "相机包"
+          },
+          {
+            "imgUrl": "//img14.360buyimg.com/focus/s140x140_jfs/t12871/119/940831255/3989/70c3fd57/5a1676ecNfdacde72.jpg",
+            "title": "闪光灯/手柄"
+          },
+          {
+            "imgUrl": "//img20.360buyimg.com/focus/s140x140_jfs/t12079/282/904418347/5828/f42b5c8e/5a16767bNe089435f.jpg",
+            "title": "电池/充电器"
+          }
+        ]
+      },
+      {
+        "title": "智能设备",
+        "list": [
+          {
+            "imgUrl": "//img30.360buyimg.com/focus/s140x140_jfs/t11977/66/2331987943/5747/c47a800b/5a1674a2Nf5dc75c6.jpg",
+            "title": "智能手环"
+          },
+          {
+            "imgUrl": "//img11.360buyimg.com/focus/s140x140_jfs/t11800/163/2392976653/6565/a9dc4c3b/5a16749eN34794086.jpg",
+            "title": "智能手表"
+          },
+          {
+            "imgUrl": "//img20.360buyimg.com/focus/s140x140_jfs/t13318/328/886534248/4667/81c8906/5a167490N092a2af2.jpg",
+            "title": "智能家居"
+          },
+          {
+            "imgUrl": "//img12.360buyimg.com/focus/s140x140_jfs/t13288/240/895737412/4317/a36e4d05/5a16745dNa1c329c2.jpg",
+            "title": "智能机器人"
+          },
+          {
+            "imgUrl": "//img30.360buyimg.com/focus/s140x140_jfs/t11944/353/2328891001/2068/a66878bd/5a16747aNeecc001b.jpg",
+            "title": "体感车"
+          },
+          {
+            "imgUrl": "//img30.360buyimg.com/focus/s140x140_jfs/t13885/191/891735699/5160/da2bded2/5a16745aN29dedc36.jpg",
+            "title": "无人机"
+          },
+          {
+            "imgUrl": "//img12.360buyimg.com/focus/s140x140_jfs/t12355/67/924284298/2140/cbf52719/5a167464Nb18dbd59.jpg",
+            "title": "其他配件"
+          },
+          {
+            "imgUrl": "//img20.360buyimg.com/focus/s140x140_jfs/t13930/266/903222742/3308/8b774f1b/5a167484N0a623a5b.jpg",
+            "title": "VR眼镜"
+          },
+          {
+            "imgUrl": "//img11.360buyimg.com/focus/s140x140_jfs/t13330/284/897613796/1872/cac5ade4/5a167467Ndd23929b.jpg",
+            "title": "智能配饰"
+          }
+        ]
+      },
+      {
+        "title": "电子教育",
+        "list": [
+          {
+            "imgUrl": "//img12.360buyimg.com/focus/s140x140_jfs/t11494/97/2366433924/3228/c6827521/5a167302N7103e54c.jpg",
+            "title": "学生平板"
+          },
+          {
+            "imgUrl": "//img10.360buyimg.com/focus/s140x140_jfs/t11977/187/2336671981/2658/10749ff6/5a167317Nde2f9a4b.jpg",
+            "title": "电纸书"
+          },
+          {
+            "imgUrl": "//img11.360buyimg.com/focus/s140x140_jfs/t13000/167/859650860/3237/a72abbe8/5a167312N33ea5808.jpg",
+            "title": "录音笔"
+          },
+          {
+            "imgUrl": "//img20.360buyimg.com/focus/s140x140_jfs/t13891/46/885209933/6676/d54b44d8/5a1672fbN487f682b.jpg",
+            "title": "早教益智"
+          },
+          {
+            "imgUrl": "//img13.360buyimg.com/focus/s140x140_jfs/t13432/76/902190959/2632/6175273e/5a167308Ne65f7b7c.jpg",
+            "title": "点读机/笔"
+          },
+          {
+            "imgUrl": "//img14.360buyimg.com/focus/s140x140_jfs/t12904/65/910326652/3090/c9fe6001/5a16730dN65cbc05a.jpg",
+            "title": "复读机"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cate_title": "电脑办公",
+    "cate_data": [
+      {
+        "title": "热卖分类",
+        "list": [
+          {
+            "imgUrl": "https://img13.360buyimg.com/focus/s140x140_jfs/t11071/195/2462134264/9117/cd0688bf/5a17ba79N18b9f3d4.png",
+            "title": "轻薄本"
+          },
+          {
+            "imgUrl": "https://img30.360buyimg.com/focus/s140x140_jfs/t11155/36/2330310765/10690/eb6754c3/5a17ba96N49561fea.png",
+            "title": "游戏本"
+          },
+          {
+            "imgUrl": "https://img12.360buyimg.com/focus/s140x140_jfs/t12304/245/965858782/6481/37cb5a9b/5a17ba5aN0406a1b5.jpg",
+            "title": "机械键盘"
+          },
+          {
+            "imgUrl": "https://img10.360buyimg.com/focus/s140x140_jfs/t14101/325/978287093/8836/e142aa53/5a17ba73N07b12f0c.jpg",
+            "title": "组装电脑"
+          },
+          {
+            "imgUrl": "https://img12.360buyimg.com/focus/s140x140_jfs/t13228/333/989759736/4764/2a312c2e/5a17ba7fN0740c051.jpg",
+            "title": "移动硬盘"
+          },
+          {
+            "imgUrl": "https://img20.360buyimg.com/focus/s140x140_jfs/t12679/262/982342141/7023/d05a11e5/5a17ba57Nf179b4e4.jpg",
+            "title": "显卡"
+          },
+          {
+            "imgUrl": "https://img10.360buyimg.com/focus/s140x140_jfs/t12865/295/960489437/5723/4f38f11/5a17ba8bN911b7264.jpg",
+            "title": "游戏台式机"
+          },
+          {
+            "imgUrl": "https://img13.360buyimg.com/focus/s140x140_jfs/t12526/166/988611883/3419/3c7507ac/5a17ba5dN8f6ffa5e.jpg",
+            "title": "家用打印机"
+          },
+          {
+            "imgUrl": "https://img14.360buyimg.com/focus/s140x140_jfs/t1/98581/29/13884/5125/5e5f1d66E8357cf2e/7232090502f87411.jpg",
+            "title": "吃鸡装备"
+          },
+          {
+            "imgUrl": "https://img30.360buyimg.com/focus/s140x140_jfs/t13798/322/988648789/3644/1adc5615/5a17ba6dNafc95373.jpg",
+            "title": "曲屏显示器"
+          },
+          {
+            "imgUrl": "https://img20.360buyimg.com/focus/s140x140_jfs/t13492/261/938265048/5840/b5e4bdb6/5a17ba61N61a74bc3.jpg",
+            "title": "投影机"
+          },
+          {
+            "imgUrl": "https://img30.360buyimg.com/focus/s140x140_jfs/t1/97514/11/13831/2863/5e5f1d77Ee5ab96e7/70294c751c6ce6f5.jpg",
+            "title": "日本文具"
+          }
+        ]
+      },
+      {
+        "title": "电脑整机",
+        "list": [
+          {
+            "imgUrl": "https://img11.360buyimg.com/focus/s140x140_jfs/t13852/288/980080912/2623/73d2a1a5/5a17b976N7ab8a3a6.jpg",
+            "title": "笔记本"
+          },
+          {
+            "imgUrl": "https://img10.360buyimg.com/focus/s140x140_jfs/t13252/193/948884668/3832/2cd704d4/5a17b918N0785e503.jpg",
+            "title": "平板电脑"
+          },
+          {
+            "imgUrl": "https://img12.360buyimg.com/focus/s140x140_jfs/t14020/291/987624955/9068/5b27e263/5a17b978N2a93f7a9.jpg",
+            "title": "一体机"
+          },
+          {
+            "imgUrl": "https://img30.360buyimg.com/focus/s140x140_jfs/t13747/317/982291236/6659/4945536d/5a17b996Nba3bed32.jpg",
+            "title": "台式机"
+          },
+          {
+            "imgUrl": "https://img20.360buyimg.com/focus/s140x140_jfs/t12088/219/967281794/2015/c05e448c/5a17b933N825c264a.jpg",
+            "title": "笔记本配件"
+          },
+          {
+            "imgUrl": "https://img20.360buyimg.com/focus/s140x140_jfs/t12901/167/947504038/6315/4c239386/5a17b948Nf6918c9e.jpg",
+            "title": "游戏台式机"
+          },
+          {
+            "imgUrl": "https://img10.360buyimg.com/focus/s140x140_jfs/t13138/231/1001350583/7486/6d001868/5a17b94eN820f6506.jpg",
+            "title": "商用台式机"
+          },
+          {
+            "imgUrl": "https://img30.360buyimg.com/focus/s140x140_jfs/t12418/24/1008907015/2867/86eb55a/5a17b971N14214c4f.jpg",
+            "title": "游戏本"
+          },
+          {
+            "imgUrl": "https://img12.360buyimg.com/focus/s140x140_jfs/t13504/44/947654756/2419/ca768bc2/5a17b8dcNd0418625.jpg",
+            "title": "平板电脑配件"
+          },
+          {
+            "imgUrl": "https://img20.360buyimg.com/focus/s140x140_jfs/t12499/273/957225674/6892/8281d4a7/5a17b962Nf77d9f6c.jpg",
+            "title": "轻薄本"
+          },
+          {
+            "imgUrl": "https://img10.360buyimg.com/focus/s140x140_jfs/t11944/224/2479637242/6222/ac9759/5a17b93dN89330bb3.jpg",
+            "title": "二合一平板"
+          },
+          {
+            "imgUrl": "https://img10.360buyimg.com/focus/s140x140_jfs/t13840/141/950958975/1812/362471fe/5a17b921Nf71bb1a4.jpg",
+            "title": "服务器/工作站"
+          }
+        ]
+      },
+      {
+        "title": "外设产品",
+        "list": [
+          {
+            "imgUrl": "//img20.360buyimg.com/focus/s140x140_jfs/t11881/31/2355374158/3676/22da94de/5a16a5f0Nc6b32dda.jpg",
+            "title": "鼠标"
+          },
+          {
+            "imgUrl": "//img20.360buyimg.com/focus/s140x140_jfs/t12112/355/904591745/4308/6201dffe/5a16a5aaNdac2fe89.jpg",
+            "title": "U盘"
+          },
+          {
+            "imgUrl": "//img20.360buyimg.com/focus/s140x140_jfs/t13636/255/952363201/5216/92808140/5a16a5f6Nad15240a.jpg",
+            "title": "键盘"
+          },
+          {
+            "imgUrl": "//img10.360buyimg.com/focus/s140x140_jfs/t13378/75/927818435/4870/595967f9/5a16a5b5N4075325c.jpg",
+            "title": "鼠标垫"
+          },
+          {
+            "imgUrl": "//img30.360buyimg.com/focus/s140x140_jfs/t12139/119/906364755/3899/3e9bfbca/5a16a5adN67c1a043.jpg",
+            "title": "移动硬盘"
+          },
+          {
+            "imgUrl": "//img13.360buyimg.com/focus/s140x140_jfs/t11734/189/2377033150/4145/b78bfcf/5a16a594Ncb41c95a.jpg",
+            "title": "手写板"
+          },
+          {
+            "imgUrl": "//img20.360buyimg.com/focus/s140x140_jfs/t13420/80/910285628/2736/5f202fd8/5a16a59eNadecac30.jpg",
+            "title": "硬盘盒"
+          },
+          {
+            "imgUrl": "//img20.360buyimg.com/focus/s140x140_jfs/t13219/359/921087235/4445/bb62050e/5a16a592N7e614f3d.jpg",
+            "title": "线缆"
+          },
+          {
+            "imgUrl": "//img14.360buyimg.com/focus/s140x140_jfs/t12511/359/951124397/4655/1f4b2503/5a16a585N73dd2d73.jpg",
+            "title": "手机U盘"
+          },
+          {
+            "imgUrl": "//img11.360buyimg.com/focus/s140x140_jfs/t14092/4/926363914/5049/8bf96ca4/5a16a57dNed5b68f6.jpg",
+            "title": "电脑清洁"
+          },
+          {
+            "imgUrl": "//img14.360buyimg.com/focus/s140x140_jfs/t12031/206/932335399/3567/d6d59ad9/5a16a578N283a0f75.jpg",
+            "title": "插座"
+          },
+          {
+            "imgUrl": "//img11.360buyimg.com/focus/s140x140_jfs/t13687/323/893934580/3715/4657a7e6/5a16a56dN9e6309e0.jpg",
+            "title": "键鼠套装"
+          },
+          {
+            "imgUrl": "//img12.360buyimg.com/focus/s140x140_jfs/t12571/97/935919461/4129/7e1b9069/5a16a566N8fb4f9ae.jpg",
+            "title": "UPS电源"
+          },
+          {
+            "imgUrl": "//img11.360buyimg.com/focus/s140x140_jfs/t12292/173/915309013/5554/78f4ab5e/5a16a560Nc7626d33.jpg",
+            "title": "电脑工具"
+          },
+          {
+            "imgUrl": "//img12.360buyimg.com/focus/s140x140_jfs/t11455/75/2350304185/6636/e301e187/5a16a58cNb6b027df.jpg",
+            "title": "机械键盘"
+          },
+          {
+            "imgUrl": "//img20.360buyimg.com/focus/s140x140_jfs/t12499/54/910206832/5998/f91002f8/5a16a588Nff477d9d.jpg",
+            "title": "摄像头"
+          },
+          {
+            "imgUrl": "//img30.360buyimg.com/focus/s140x140_jfs/t12583/285/927237069/5490/e730e27e/5a16a572N83179fdc.jpg",
+            "title": "网络仪表仪器"
+          },
+          {
+            "imgUrl": "//img30.360buyimg.com/focus/s140x140_jfs/t1/99545/38/13753/2529/5e5f1d8aE48ce0285/97e6d73f5438a246.jpg",
+            "title": "网络存储"
+          }
+        ]
+      },
+      {
+        "title": "电脑配件",
+        "list": [
+          {
+            "imgUrl": "//img11.360buyimg.com/focus/s140x140_jfs/t12055/263/988628886/5209/e79d6986/5a17b610N6ab3c530.jpg",
+            "title": "显示器"
+          },
+          {
+            "imgUrl": "//img11.360buyimg.com/focus/s140x140_jfs/t11101/105/2338497620/4171/14a94479/5a17b5fdN5902ff1c.jpg",
+            "title": "硬盘"
+          },
+          {
+            "imgUrl": "//img14.360buyimg.com/focus/s140x140_jfs/t11353/299/2402077156/2935/14c2980/5a17b5d6Ndd76bc59.jpg",
+            "title": "电源"
+          },
+          {
+            "imgUrl": "//img13.360buyimg.com/focus/s140x140_jfs/t12430/209/999346936/2994/bc6ab03f/5a17b5f6N09faf599.jpg",
+            "title": "内存"
+          },
+          {
+            "imgUrl": "//img20.360buyimg.com/focus/s140x140_jfs/t12685/330/958049282/6665/7716f391/5a17b602N70cb6fae.jpg",
+            "title": "CPU"
+          },
+          {
+            "imgUrl": "//img20.360buyimg.com/focus/s140x140_jfs/t13588/295/987294429/6804/d7eb5a44/5a17b5f0N06ab312c.jpg",
+            "title": "机箱"
+          },
+          {
+            "imgUrl": "//img13.360buyimg.com/focus/s140x140_jfs/t12313/348/980409633/9513/6515f5d3/5a17b5dbN84f9f393.jpg",
+            "title": "散热器"
+          },
+          {
+            "imgUrl": "//img11.360buyimg.com/focus/s140x140_jfs/t11335/190/2427063449/5833/dfddd951/5a17b5e2Ne87b72a2.jpg",
+            "title": "刻录机/光驱"
+          },
+          {
+            "imgUrl": "//img10.360buyimg.com/focus/s140x140_jfs/t11104/135/2422361524/5286/46c04948/5a17b615Nb96e7337.jpg",
+            "title": "组装电脑"
+          },
+          {
+            "imgUrl": "//img12.360buyimg.com/focus/s140x140_jfs/t13876/331/976729253/13206/684d2b62/5a17b60bN67eeb4eb.png",
+            "title": "曲面屏显示器"
+          },
+          {
+            "imgUrl": "//img12.360buyimg.com/focus/s140x140_jfs/t11143/123/2433274265/3022/920793e3/5a17b567Nb7530d99.jpg",
+            "title": "声卡/扩展卡"
+          },
+          {
+            "imgUrl": "//img20.360buyimg.com/focus/s140x140_jfs/t12832/78/990152115/2771/20fd8fcc/5a17b559Nf7b25cf4.jpg",
+            "title": "装机配件"
+          }
+        ]
+      }
+    ]
+  }
+]
