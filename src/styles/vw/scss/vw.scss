@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
-@import './util';
-@import './border';
+@use './util';
+@use './border';
 
 .f-p-0 {
   padding: 0 !important;
@@ -179,7 +179,7 @@ main {
     padding: px2vw(20);
     font-family: 'Microsoft YaHei';
     font-size: px2vw(28);
-    -webkit-text-size-adjust: none;
+    text-size-adjust: none;
     text-size-adjust: none;
     border: none;
     caret-color: #fc8200;

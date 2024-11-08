@@ -7,15 +7,18 @@
       </keep-alive>
     </router-view>
   </div>
-  <bottom-bar v-if="$route.meta?.tabbar" ref="bottomBarRef" />
+  <bottom-bar v-if="route.meta?.tabbar" ref="bottomBarRef" />
 </template>
 
 <script lang="ts" setup>
   import { ref, nextTick } from 'vue';
   import Sticky from 'vant/lib/sticky/Sticky';
   import Tabbar from 'vant/lib/tabbar/Tabbar';
+  import { useRoute } from 'vue-router';
   import topBar from '@/layout/topBar.vue';
   import bottomBar from '@/layout/bottomBar.vue';
+
+  const route = useRoute();
 
   defineOptions({ name: 'Layout' });
   const topBarRef = ref<InstanceType<typeof Sticky>>();

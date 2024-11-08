@@ -7,9 +7,9 @@
 <script setup lang="ts"></script>
 
 <style lang="scss">
-  @import './styles/common';
+  @use './styles/common';
 
-  html {
-    @include root-font-size();
-  }
+  // html {
+  //   @include root-font-size();
+  // }
 </style>

@@ -66,9 +66,9 @@ export default ({ command, mode }: ConfigEnv): UserConfig => {
           javascriptEnabled: true,
         },
         scss: {
-          additionalData: `@import "src/styles/vw-rem/_util.scss";
-                       @import "src/styles/vw-rem/_border.scss";
-                       @import "src/styles/func.scss";`,
+          additionalData: `@use "src/styles/vw-rem/_util.scss";
+                       @use "src/styles/vw-rem/_border.scss";
+                       @use "src/styles/func.scss";`,
         },
       },
       // TODO 构建包含@charset问题 https://github.com/vitejs/vite/issues/5833

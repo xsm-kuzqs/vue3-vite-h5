@@ -7,26 +7,24 @@ export {}
 
 declare module 'vue' {
   export interface GlobalComponents {
-    BottomBar: typeof import('./src/components/bottomBar.vue')['default']
-    Empty: typeof import('./src/components/empty.vue')['default']
-    FieldAreaPicker: typeof import('./src/components/field-area-picker.vue')['default']
-    FieldCalendarPicker: typeof import('./src/components/field-calendar-picker.vue')['default']
-    FieldDatetimePicker: typeof import('./src/components/field-datetime-picker.vue')['default']
-    FieldPicker: typeof import('./src/components/field-picker.vue')['default']
-    RouterLink: typeof import('vue-router')['RouterLink']
-    RouterView: typeof import('vue-router')['RouterView']
-    TopBar: typeof import('./src/components/topBar.vue')['default']
-    VanCard: typeof import('vant/es')['Card']
-    VanGrid: typeof import('vant/es')['Grid']
-    VanGridItem: typeof import('vant/es')['GridItem']
-    VanIcon: typeof import('vant/es')['Icon']
-    VanNavBar: typeof import('vant/es')['NavBar']
-    VanSidebar: typeof import('vant/es')['Sidebar']
-    VanSidebarItem: typeof import('vant/es')['SidebarItem']
-    VanSticky: typeof import('vant/es')['Sticky']
-    VanSwipe: typeof import('vant/es')['Swipe']
-    VanSwipeItem: typeof import('vant/es')['SwipeItem']
-    VanTabbar: typeof import('vant/es')['Tabbar']
-    VanTabbarItem: typeof import('vant/es')['TabbarItem']
+    Empty: (typeof import('./src/components/empty.vue'))['default'];
+    FieldAreaPicker: (typeof import('./src/components/field-area-picker.vue'))['default'];
+    FieldCalendarPicker: (typeof import('./src/components/field-calendar-picker.vue'))['default'];
+    FieldDatetimePicker: (typeof import('./src/components/field-datetime-picker.vue'))['default'];
+    FieldPicker: (typeof import('./src/components/field-picker.vue'))['default'];
+    RouterLink: (typeof import('vue-router'))['RouterLink'];
+    RouterView: (typeof import('vue-router'))['RouterView'];
+    VanCard: (typeof import('vant/es'))['Card'];
+    VanGrid: (typeof import('vant/es'))['Grid'];
+    VanGridItem: (typeof import('vant/es'))['GridItem'];
+    VanIcon: (typeof import('vant/es'))['Icon'];
+    VanNavBar: (typeof import('vant/es'))['NavBar'];
+    VanSidebar: (typeof import('vant/es'))['Sidebar'];
+    VanSidebarItem: (typeof import('vant/es'))['SidebarItem'];
+    VanSticky: (typeof import('vant/es'))['Sticky'];
+    VanSwipe: (typeof import('vant/es'))['Swipe'];
+    VanSwipeItem: (typeof import('vant/es'))['SwipeItem'];
+    VanTabbar: (typeof import('vant/es'))['Tabbar'];
+    VanTabbarItem: (typeof import('vant/es'))['TabbarItem'];
   }
 }
