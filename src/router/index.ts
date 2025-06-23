@@ -11,7 +11,7 @@ export const routes: Array<RouteRecordRaw> = [
     redirect: '/home',
     component: () => import('@/layout/index.vue'),
     meta: {
-      title: '首页',
+      title: '首页-index',
     },
     children: [
       ...tabbar,
