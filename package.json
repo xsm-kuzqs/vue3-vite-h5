@@ -1,7 +1,7 @@
 {
   "name": "vite-vue3-h5",
   "version": "0.0.0",
-  "homepage": "git@buqiyuan.github.io/vite-vue3-h5",
+  "homepage": "xsm-kuzqs.github.io/vue3-vite-h5/",
   "scripts": {
     "serve": "npm run dev",
     "dev": "vite",

@@ -4,7 +4,7 @@
 
 ## 在线预览
 
-http://buqiyuan.gitee.io/vite-vue3-h5
+https://xsm-kuzqs.github.io/vue3-vite-h5/
 
 提供三个布局方案
 
