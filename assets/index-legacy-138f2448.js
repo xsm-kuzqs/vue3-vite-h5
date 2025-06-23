@@ -1,1 +1,0 @@
-System.register(["./index-legacy-b6078033.js"],(function(e,t){"use strict";var n,r,u;return{setters:[e=>{n=e._,r=e.p,u=e.h}],execute:function(){e("default",n({},[["render",function(e,t){return u(),r("h1",null,"Example")}]]))}}}));
