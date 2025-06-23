@@ -1,1 +1,0 @@
-System.register(["./index-legacy-6b7ef6b0.js"],(function(e,t){"use strict";var n,r,u;return{setters:[e=>{n=e._,r=e.p,u=e.h}],execute:function(){e("default",n({},[["render",function(e,t){return u(),r("h1",null,"Example")}]]))}}}));
